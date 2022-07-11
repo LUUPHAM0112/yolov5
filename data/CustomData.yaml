@@ -1,0 +1,10 @@
+path: ../data  # dataset root dir
+train: /content/data/images
+val: /content/data/images 
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['face']  # class names
+
+
