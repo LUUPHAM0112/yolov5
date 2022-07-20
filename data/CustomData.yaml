@@ -1,6 +1,6 @@
 path: ../data  # dataset root dir
-train: /content/data/images
-val: /content/data/images 
+train: /content/data/train/images
+val: /content/data/val/images
 test:  # test images (optional)
 
 # Classes
